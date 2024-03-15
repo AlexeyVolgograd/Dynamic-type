@@ -4,5 +4,7 @@ age=48
 print(age,type(age))
 age=49
 print(age,type(age))
-is_student="True"
-print("Is student"+ is_student)
+is_student="Он студент"
+print(is_student=='Он студент')
+is_student= "True"
+print("Is student", is_student)
